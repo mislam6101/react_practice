@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+reactapp1/node_modules
+reactapp2/node_modules
+reactapp3/node_modules
+reactapp4/node_modules
+reactapp5/node_modules
