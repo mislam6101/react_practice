@@ -9,7 +9,7 @@ function Blog() {
 
     useEffect(() => {
         getusers();
-    })
+    }, [])
 
     const getusers = () => {
         axios.get('http://localhost/PWAD-68/api/blog/').then(function (response) {

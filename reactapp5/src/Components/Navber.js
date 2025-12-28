@@ -32,6 +32,16 @@ function Navber() {
                             </Link>
                         </li>
                         <li className="nav-item">
+                            <Link className="nav-link px-lg-3 py-3 py-lg-4" to="/users">
+                                Users
+                            </Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link className="nav-link px-lg-3 py-3 py-lg-4" to="/new_user">
+                                New Users
+                            </Link>
+                        </li>
+                        <li className="nav-item">
                             <Link className="nav-link px-lg-3 py-3 py-lg-4" to="/about">
                                 About
                             </Link>
